@@ -1,4 +1,5 @@
 # Python-InvoicePDF-Extractor
+created by Anna Dudek @Anna-portfolio<br>
 A Python script that extracts structured data from German invoices (PDF). The script uses pdfplumber for text extraction and regex patterns to identify key fields:<br><br>
 
 Customer (Kunde)<br>
